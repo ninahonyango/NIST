@@ -65,9 +65,9 @@ ensure continuous improvement and successful measurement.
 
 | Appendix | Description                                      | File |
 |----------|--------------------------------------------------|------|
-| A        | Risk Register (Threats, Vulnerabilities, Risks)  | [Risk-Register.xlsx](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/RiskRegister.xlsx) |
-| B        | NIST CSF Control Mapping                         | [NIST-CSF-Control-Mapping.xlsx](/NIST%20CSF%20Control%20Mapping%20Sheet.xlsx) |
-| C        | Policy Documents (AUP, ACP, BCP, etc.)           | [Security-Policies.pdf](/NIST%20Cybersecurity%20Framework.pdf) |
+| A        | Risk Register (Threats, Vulnerabilities, Risks)  | [Dowdload Risk-Register.xlsx](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/RiskRegister.xlsx) |
+| B        | NIST CSF Control Mapping                         | [Download NIST-CSF-Control-(https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTControlMappingSheet.xlsx) |
+| C        | Policy Documents (AUP, ACP, BCP, etc.)           | [Download Security-Policies.pdf](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTCybersecurityFramework.pdf) |
 
 ---
 
@@ -78,4 +78,3 @@ This project is for educational purposes and represents a simulated cybersecurit
 
 ---
 
-NIST%20CSF%20Control%20Mapping%20Sheet.xlsx)
