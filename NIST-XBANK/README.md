@@ -146,8 +146,9 @@ Built an implementation timeline with phased rollout of:
 
   - Security reviews
 
-  - Incident response procedures:
+  - Incident response procedures
 
+Below is the implementation timeline:
 
 | Phase  |Timeline  | Task                                       | Responsibility Party            | Notes             |
 |---------------|----------|------------------------------------------|-----------------------------|--------------------------|
@@ -171,10 +172,6 @@ Metrics and ownership of tasks are documented to ensure continuous improvement a
 
 ---
 
-## 📋 Screenshots
-
----
-
 ### Step 7: 📋 Structured Documentation and Appendices
 
 Organized all files and policies into a clear GitHub project
@@ -188,10 +185,10 @@ Added an appendix table to reference each file
 
 | Appendix | Description                                          | File |
 |----------|------------------------------------------------------|------|
-| A        | Detailed NIST CSF Implementation Plan for X Bank     | [Click To View NIST CSF Implemetation Plan]() |
+| A        | Detailed NIST CSF Implementation Plan for X Bank     | [Click To View NIST CSF Implemetation Plan](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTCybersecurityFramework.pdf) |
 | B        | Security Policy Documents (AUP, ACP, IRP, DRP etc.)  | [Click To View Security Policy Document](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/policies.pdf) |
-| B        | Risk Register (Threats, Vulnerabilities, Risks)      | [Download To View Risk Register Spreadsheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/RiskRegister.xlsx) |
-| C        | NIST CSF Control Mapping                             | [Download To View NIST CSF Control Mapping Sheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTControlMappingSheet.xlsx) |
+| C        | Risk Register (Threats, Vulnerabilities, Risks)      | [Download To View Risk Register Spreadsheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/RiskRegister.xlsx) |
+| D        | NIST CSF Control Mapping                             | [Download To View NIST CSF Control Mapping Sheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTControlMappingSheet.xlsx) |
 
 ---
 
