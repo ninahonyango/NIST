@@ -63,11 +63,11 @@ ensure continuous improvement and successful measurement.
 
 ## 📋 Appendices
 
-| Appendix | Description                                      | File |
-|----------|--------------------------------------------------|------|
-| A        | Risk Register (Threats, Vulnerabilities, Risks)  | [Dowdload Risk-Register.xlsx](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/RiskRegister.xlsx) |
-| B        | NIST CSF Control Mapping                         | [Download NIST-CSF-Control-Mapping_Sheet.xlsx](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTControlMappingSheet.xlsx) |
-| C        | Policy Documents (AUP, ACP, BCP, etc.)           | [Click to View Security Policies](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/policies.pdf) |
+| Appendix | Description                                          | File |
+|----------|------------------------------------------------------|------|
+| A        | Security Policy Documents (AUP, ACP, IRP, DRP etc.)  | [Click To View Security Policy Document](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/policies.pdf) |
+| B        | Risk Register (Threats, Vulnerabilities, Risks)      | [Download To View Risk Register Spreadsheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/RiskRegister.xlsx) |
+| C        | NIST CSF Control Mapping                             | [Download To View NIST CSF Control Mapping Sheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTControlMappingSheet.xlsx) |
 
 ---
 
