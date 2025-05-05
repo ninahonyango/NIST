@@ -1,6 +1,6 @@
 # 📖 NIST CSF Implementation Plan For X Bank (Fictional Company)
 
-This repository contains a comprehensive implementation of the NIST Cybersecurity Framework (CSF) for a fictional organization, **X Bank**. It demonstrates how organizations can assess and improve their cybersecurity posture using structured risk analysis, mapped controls, and policy development.
+This repository contains a comprehensive implementation of the NIST Cybersecurity Framework (CSF) for a fictional organization, X Bank. It demonstrates how organizations can assess and improve their cybersecurity posture using structured risk analysis, mapped controls, and policy development.
 
 ---
 
